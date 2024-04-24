@@ -8,4 +8,4 @@ Expressões regulares, regex, em PHP, JS, MySQL, editores, etc
 [codigos.txt](codigos.txt)
 
 ## Vídeo
-[](https://www.youtube.com/watch?v=V_ZMhqo-aOk&t=44s)
+[https://www.youtube.com/watch?v=V_ZMhqo-aOk&t=44s](https://www.youtube.com/watch?v=V_ZMhqo-aOk&t=44s)
